@@ -4,7 +4,7 @@
  * @api private
  */
 
-var loop = require('looping');
+var loop = require('bredele-looping');
 
 
 /**
